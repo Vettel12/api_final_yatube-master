@@ -117,22 +117,22 @@ python manage.py runserver
 
 Ввести text и в Value наш текст поста
 
-<img width="1000px" src="https://github.com/Vettel12/api_yatube-master/blob/main/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-05-30%20214854+.png?raw=true" align="center" alt="GitHub Readme Stats" />
+<img width="1000px" src="https://github.com/Vettel12/api_final_yatube-master/blob/main/image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-06-09%20172131.png?raw=true" align="center" alt="GitHub Readme Stats" />
 
 Создать комментарий (POST): http://127.0.0.1:8000/api/v1/posts/1/comments/
 
 Ввести post, text и в Value id поста и наш  комментарий
 
-<img width="1000px" src="https://github.com/Vettel12/api_yatube-master/blob/main/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-05-30%20214854+.png?raw=true" align="center" alt="GitHub Readme Stats" />
+<img width="1000px" src="https://github.com/Vettel12/api_final_yatube-master/blob/main/image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-06-09%20175149.png?raw=true" align="center" alt="GitHub Readme Stats" />
 
 Обновить комментарий (PUT): http://127.0.0.1:8000/api/v1/posts/1/
 
 Ввести post, text и в Value id поста и наш новый комментарий
 
-<img width="1000px" src="https://github.com/Vettel12/api_yatube-master/blob/main/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-05-30%20214854+.png?raw=true" align="center" alt="GitHub Readme Stats" />
+<img width="1000px" src="https://github.com/Vettel12/api_final_yatube-master/blob/main/image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-06-09%20175528.png?raw=true" align="center" alt="GitHub Readme Stats" />
 
 Обновить частично комментарий (PATCH): http://127.0.0.1:8000/api/v1/posts/1/comments/1/
 
 Ввести post, text и в Value id поста и комментарий
 
-<img width="1000px" src="https://github.com/Vettel12/api_yatube-master/blob/main/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-05-30%20214854+.png?raw=true" align="center" alt="GitHub Readme Stats" />
+<img width="1000px" src="https://github.com/Vettel12/api_final_yatube-master/blob/main/image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-06-09%20175555.png?raw=true" align="center" alt="GitHub Readme Stats" />
