@@ -117,7 +117,7 @@ python manage.py runserver
 
 Ввести text и в Value наш текст поста
 
-<img width="1000px" src="https://github.com/Vettel12/api_final_yatube-master/blob/main/image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-06-09%20172131.png?raw=true" align="center" alt="GitHub Readme Stats" />
+<img width="1000px" src="https://github.com/Vettel12/api_final_yatube-master/blob/main/image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-06-09%20174835.png?raw=true" align="center" alt="GitHub Readme Stats" />
 
 Создать комментарий (POST): http://127.0.0.1:8000/api/v1/posts/1/comments/
 
